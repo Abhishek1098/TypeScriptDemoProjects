@@ -15,6 +15,9 @@ interface Person {
 //     return "Hello, " + person.firstName + " " + person.lastName;
 // }
 
+
+//Test commit
+
 function greeter(student: Student) {
     return "Hello, " + student.fullName;
 }
